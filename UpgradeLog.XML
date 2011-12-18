@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="InsertaFirma">
+</Property><Property Name="Solution File" Value="\\VBOXSVR\Downloads\NET CODE\InsertaFirma\InsertaFirma.sln">
+</Property><Property Name="User Options File" Value="\\VBOXSVR\Downloads\NET CODE\InsertaFirma\InsertaFirma.suo">
+</Property><Property Name="Date" Value="domingo, 18 de diciembre de 2011">
+</Property><Property Name="Time" Value="8:10">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="InsertaFirma.sln" Description="File successfully backed up as \\VBOXSVR\Downloads\NET CODE\InsertaFirma\Backup\InsertaFirma.sln">
+</Event><Event ErrorLevel="0" Project="" Source="InsertaFirma.suo" Description="File successfully backed up as \\VBOXSVR\Downloads\NET CODE\InsertaFirma\Backup\InsertaFirma.suo">
+</Event><Event ErrorLevel="0" Project="InsertaFirma" Source="InsertaFirma\InsertaFirma.csproj" Description="Project file successfully backed up as \\VBOXSVR\Downloads\NET CODE\InsertaFirma\Backup\InsertaFirma\InsertaFirma.csproj">
+</Event><Event ErrorLevel="0" Project="InsertaFirma" Source="InsertaFirma\Program.cs" Description="File successfully backed up as \\VBOXSVR\Downloads\NET CODE\InsertaFirma\Backup\InsertaFirma\Program.cs">
+</Event><Event ErrorLevel="0" Project="InsertaFirma" Source="InsertaFirma\Properties\AssemblyInfo.cs" Description="File successfully backed up as \\VBOXSVR\Downloads\NET CODE\InsertaFirma\Backup\InsertaFirma\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="InsertaFirma" Source="InsertaFirma\InsertaFirma.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="InsertaFirma" Source="InsertaFirma\InsertaFirma.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Siemens.AMC.Utils.Office" Source="Siemens.AMC.Utils.Office\Siemens.AMC.Utils.Office.csproj" Description="Project file successfully backed up as \\VBOXSVR\Downloads\NET CODE\InsertaFirma\Backup\Siemens.AMC.Utils.Office\Siemens.AMC.Utils.Office.csproj">
+</Event><Event ErrorLevel="0" Project="Siemens.AMC.Utils.Office" Source="Siemens.AMC.Utils.Office\OfficeSigner.cs" Description="File successfully backed up as \\VBOXSVR\Downloads\NET CODE\InsertaFirma\Backup\Siemens.AMC.Utils.Office\OfficeSigner.cs">
+</Event><Event ErrorLevel="0" Project="Siemens.AMC.Utils.Office" Source="Siemens.AMC.Utils.Office\Properties\AssemblyInfo.cs" Description="File successfully backed up as \\VBOXSVR\Downloads\NET CODE\InsertaFirma\Backup\Siemens.AMC.Utils.Office\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Siemens.AMC.Utils.Office" Source="Siemens.AMC.Utils.Office\Siemens.AMC.Utils.Office.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Siemens.AMC.Utils.Office" Source="Siemens.AMC.Utils.Office\Siemens.AMC.Utils.Office.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="InsertaFirma.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="InsertaFirma.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="InsertaFirma" Source="InsertaFirma\InsertaFirma.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Siemens.AMC.Utils.Office" Source="Siemens.AMC.Utils.Office\Siemens.AMC.Utils.Office.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

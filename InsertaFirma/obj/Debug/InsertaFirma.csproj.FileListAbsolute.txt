@@ -1,0 +1,9 @@
+D:\Projects\InsertaFirma\InsertaFirma\bin\Debug\InsertaFirma.exe
+D:\Projects\InsertaFirma\InsertaFirma\bin\Debug\InsertaFirma.pdb
+D:\Projects\InsertaFirma\InsertaFirma\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\InsertaFirma\InsertaFirma\obj\Debug\InsertaFirma.exe
+D:\Projects\InsertaFirma\InsertaFirma\obj\Debug\InsertaFirma.pdb
+D:\Projects\InsertaFirma\InsertaFirma\bin\Debug\Siemens.AMC.Utils.Office.dll
+D:\Projects\InsertaFirma\InsertaFirma\bin\Debug\Siemens.AMC.Utils.Office.pdb
+\\VBOXSVR\Downloads\NET CODE\InsertaFirma\InsertaFirma\obj\Debug\InsertaFirma.exe
+\\VBOXSVR\Downloads\NET CODE\InsertaFirma\InsertaFirma\obj\Debug\InsertaFirma.pdb

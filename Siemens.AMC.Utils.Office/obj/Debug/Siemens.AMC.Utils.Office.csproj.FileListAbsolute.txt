@@ -1,0 +1,5 @@
+D:\Projects\InsertaFirma\Siemens.AMC.Utils.Office\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\InsertaFirma\Siemens.AMC.Utils.Office\bin\Debug\Siemens.AMC.Utils.Office.dll
+D:\Projects\InsertaFirma\Siemens.AMC.Utils.Office\bin\Debug\Siemens.AMC.Utils.Office.pdb
+D:\Projects\InsertaFirma\Siemens.AMC.Utils.Office\obj\Debug\Siemens.AMC.Utils.Office.dll
+D:\Projects\InsertaFirma\Siemens.AMC.Utils.Office\obj\Debug\Siemens.AMC.Utils.Office.pdb

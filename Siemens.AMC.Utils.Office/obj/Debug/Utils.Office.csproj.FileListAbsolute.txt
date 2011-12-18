@@ -1,0 +1,3 @@
+\\VBOXSVR\Downloads\NET CODE\InsertaFirma\Siemens.AMC.Utils.Office\obj\Debug\Utils.Office.csprojResolveAssemblyReference.cache
+\\VBOXSVR\Downloads\NET CODE\InsertaFirma\Siemens.AMC.Utils.Office\obj\Debug\Siemens.AMC.Utils.Office.dll
+\\VBOXSVR\Downloads\NET CODE\InsertaFirma\Siemens.AMC.Utils.Office\obj\Debug\Siemens.AMC.Utils.Office.pdb

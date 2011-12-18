@@ -1,0 +1,3 @@
+\\VBOXSVR\Downloads\NET CODE\InsertaFirma\InsertaFirma\obj\Debug\TestConsole.csprojResolveAssemblyReference.cache
+\\VBOXSVR\Downloads\NET CODE\InsertaFirma\InsertaFirma\obj\Debug\InsertaFirma.exe
+\\VBOXSVR\Downloads\NET CODE\InsertaFirma\InsertaFirma\obj\Debug\InsertaFirma.pdb
